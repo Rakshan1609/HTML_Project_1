@@ -61,7 +61,4 @@ This project is open-source and free to use for personal, academic, or non-comme
 
 
 
----
-
-Let me know if you'd like this exported as a `.md` file or zipped with your HTML project files.
 
